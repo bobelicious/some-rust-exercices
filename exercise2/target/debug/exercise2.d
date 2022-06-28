@@ -1,0 +1,1 @@
+C:\estudos\rust\teste\exercise2\target\debug\exercise2.exe: C:\estudos\rust\teste\exercise2\src\main.rs C:\estudos\rust\teste\exercise2\src\pessoas\mod.rs C:\estudos\rust\teste\exercise2\src\sexo\mod.rs
